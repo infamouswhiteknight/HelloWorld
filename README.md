@@ -5,4 +5,5 @@ Author: Eric Hart
 
 I changed stuff (again)
 
-And This is a branch.
+## Secondary heading
+And this is from a branch - it then got merged.
