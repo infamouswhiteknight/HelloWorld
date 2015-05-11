@@ -3,4 +3,4 @@ My first GitHub repository
 
 Author: Eric Hart
 
-Testing changing stuff
+I changed stuff (again)
